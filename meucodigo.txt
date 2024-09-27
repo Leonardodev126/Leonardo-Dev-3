@@ -21,3 +21,7 @@ echo "Atualizando os dados de alguns usuários";
 
 
 echo "Voltando a estudar git";
+
+
+
+Olá, estou testando a branch de staging para atualizar o sistema
