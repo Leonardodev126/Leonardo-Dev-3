@@ -15,4 +15,9 @@ Public function name() {
 
 
 
-echo "Atualizando os dados de alguns usuários"
+echo "Atualizando os dados de alguns usuários";
+
+
+
+
+echo "Voltando a estudar git";
